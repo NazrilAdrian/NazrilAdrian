@@ -1,31 +1,56 @@
-## Hi there 👋
+<div align="center">
+  <img src="img/github-header-image.png" alt="Nazril Adrian GitHub header" width="100%" />
 
-![Header](img\github-header-image.png)
+  <h1>Hi, I'm Nazril Adrian 👋</h1>
+  <p><strong>Developer • Lifelong learner • Football enthusiast</strong></p>
 
-Hi I'am Nazril Adrian
-My Hob
-❤️🤍 **Real Madrid**
-🖤🤍 **Juventus**
-❤️🤍 **Manchester United**
-🔭 I’m currently working on **PT Cinta Sejati**
-🌱 I’m currently learning **C#** and **javascript**
-
-<!-- sosmed -->
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <p>
+    <a href="https://github.com/NazrilAdrian">
+      <img src="https://komarev.com/ghpvc/?username=NazrilAdrian&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+    </a>
+    <a href="https://github.com/NazrilAdrian?tab=followers">
+      <img src="https://img.shields.io/github/followers/NazrilAdrian?label=Followers&style=flat&color=181717" alt="GitHub followers" />
+    </a>
+  </p>
 </div>
 
-###
+## About me
+
+- 🔭 Currently working at **PT Cinta Sejati**
+- 🌱 Currently learning **C#** and **JavaScript**
+- 💡 Interested in building useful, clean, and reliable software
+- ⚽ Football fan: **Real Madrid**, **Juventus**, and **Manchester United**
+- 📍 Based in Indonesia
+
+## Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,js,html,css,git,github,vscode&perline=7" alt="Technologies" />
+</p>
+
+## GitHub activity
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/NazrilAdrian/count.svg?"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=NazrilAdrian&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="170" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazrilAdrian&layout=compact&hide_border=true&theme=tokyonight" height="170" alt="Most used languages" />
 </div>
 
-###
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=NazrilAdrian&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</div>
 
-<img src="https://raw.githubusercontent.com/NazrilAdrian/NazrilAdrian/output/snake.svg" alt="Snake animation" />
+## Let's connect
 
-###
+<p align="center">
+  <a href="https://github.com/NazrilAdrian">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/NazrilAdrian/NazrilAdrian/output/snake.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  <sub>Thanks for visiting my profile! ⭐</sub>
+</div>
