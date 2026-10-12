@@ -48,7 +48,7 @@
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/NazrilAdrian/NazrilAdrian/output/snake.svg" alt="Snake animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=70A5FD&center=true&vCenter=true&width=520&lines=Building+with+curiosity.;Learning+something+new+every+day.;Clean+code%2C+steady+progress." alt="Animated typing message" />
 </div>
 
 <div align="center">
