@@ -17,7 +17,7 @@
 ## About me
 
 - 🔭 Currently working at **PT Cinta Sejati**
-- 🌱 Currently learning **C#** and **JavaScript**
+- 🌱 Currently learning **Go** and **JavaScript**
 - 💡 Interested in building useful, clean, and reliable software
 - ⚽ Football fan: **Real Madrid**, **Juventus**, and **Manchester United**
 - 📍 Based in Indonesia
